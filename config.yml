@@ -1,0 +1,24 @@
+collections_config:
+  pages:
+    path: content
+    filter: strict 
+  posts:
+    paths: content/docs
+    create: 
+      path: '[relative_base_path]/{title|slugify}{suffix}.md'
+      extra_data:
+        dot: '.'
+        suffix: '{dot|if=language}{language|lowercase}'
+      _inputs:
+        language: 
+          type: select
+          options:
+            allow_empty: false
+            value_key: lang_code
+            values:
+              - name: English
+                lang_code: 
+              - name: Italian
+                lang_code: it
+              - name: French
+                lang_code: fr

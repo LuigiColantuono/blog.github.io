@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1333.3333"
+   height="1333.3333"
+   viewBox="0 0 1333.3333 1333.3333"
+   sodipodi:docname="logo.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,1000 H 1000 V 0 H 0 Z"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="logo"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1333.3333)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="translate(536.281,499.4111)">
+          <path
+             d="m 0,0 31.711,31.711 c 4.524,4.524 7.322,10.774 7.322,17.678 0,13.807 -11.192,25 -25,25 -6.904,0 -13.154,-2.799 -17.679,-7.324 l -31.709,-31.71 -31.711,31.711 c -4.524,4.524 -10.774,7.323 -17.678,7.323 -13.807,0 -25,-11.194 -25,-25 0,-6.904 2.799,-13.154 7.322,-17.678 l 31.711,-31.712 -31.711,-31.711 c -4.523,-4.523 -7.322,-10.773 -7.322,-17.678 0,-13.806 11.193,-25 25,-25 6.904,0 13.154,2.799 17.68,7.325 l 31.709,31.71 31.71,-31.712 c 4.525,-4.524 10.775,-7.323 17.678,-7.323 13.808,0 25,11.194 25,25 0,6.905 -2.799,13.156 -7.323,17.68 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(305.8699,138.8672)">
+      <path
+         d="M 0,0 96.89,-96.89 554.371,360.593 325.716,589.271 228.827,492.382 360.699,360.509 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path24" />
+    </g>
+    <g
+       id="g26"
+       transform="translate(368.4138,271.3437)">
+      <path
+         d="M 0,0 96.89,96.889 -34.889,228.667 325.716,589.271 228.827,686.16 -228.654,228.678 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path28" />
+    </g>
+  </g>
+</svg>

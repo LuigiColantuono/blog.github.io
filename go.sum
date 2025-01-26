@@ -1,0 +1,16 @@
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 h1:SmpwwN3DNzJWbV+IT8gaFu07ENUFpCvKou5BHYUKuVs=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200/go.mod h1:kx8MBj9T7SFR8ZClWvKZPmmUxBaltkoXvnWlZZcSnYA=
+github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
+github.com/hugomods/encrypt v0.2.0 h1:mlwrKPahAcotlYSSso5GZQgLoMeHNPwIAdxD0m/459E=
+github.com/hugomods/encrypt v0.2.0/go.mod h1:5oezB6nFUpiCPmLRBP9mvqCUqa+4NNEyCVifTDCTv4U=
+github.com/hugomods/hugopress v0.2.3 h1:tbQlJkGcou1KQJOeCN7E3oK8ZREFZoP3kSHcM/Kz718=
+github.com/hugomods/hugopress v0.2.3/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
+github.com/hugomods/icons v0.6.3 h1:2Ra6NU2GOeVvz8vowLq/OZCTzxqhq84MA0TICRBVxeY=
+github.com/hugomods/icons v0.6.3/go.mod h1:cIkSvK6W0q6N4U6n9KGz+QfRWQXAW0INd+1P31gPNGg=
+github.com/hugomods/icons v0.6.6 h1:gGlafcBDRP7sSID+tgLcWdog+s/QBj8DIfU+h9tZj1U=
+github.com/hugomods/icons v0.6.6/go.mod h1:cIkSvK6W0q6N4U6n9KGz+QfRWQXAW0INd+1P31gPNGg=
+github.com/hugomods/icons/vendors/font-awesome v0.6.12 h1:I8ckJFuxr8mD8bJ4NX9NrmnHd3f6XvITuD2ME8a9wXc=
+github.com/hugomods/icons/vendors/font-awesome v0.6.12/go.mod h1:6YBo/5GaNpAocKwnKNWcd9xkliiRJXmwz2mstY5lr9I=
+github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
+github.com/twbs/icons v1.11.3/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
