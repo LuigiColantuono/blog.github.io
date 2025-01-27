@@ -1,6 +1,6 @@
 ---
 weight: 401
-title: Ridurre"Buffer Bloat"
+title: "Ridurre Buffer Bloat"
 description: "Impostazioni per migliorare la connessione e ridurre la latenza!" 
 icon: network_check
 date: 2022-11-22T12:36:15+00:00
