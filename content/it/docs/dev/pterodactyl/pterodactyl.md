@@ -1,7 +1,7 @@
 ---
 weight: 620
 title: "Pterodactyl"
-description: "Pterodactyl Managment Panel"
+description: "Open-source game server management panel built with PHP, React, and Go."
 icon: "api"
 date: "2024-03-16T22:53:27+01:00"
 lastmod: "2024-03-16T22:53:27+01:00"
