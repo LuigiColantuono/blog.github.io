@@ -14,8 +14,10 @@ images: []
 
 ![alt text](https://i.imgur.com/SRexdT4.png)
 
-
 By default Windows leaves many items active that stress the connection, you can deselect everything and leave only IPv4, and if necessary also QoS.
+**Disable Power Saving**
+
+![alt text](https://i.imgur.com/vwAGSDk.png)
 
 ### Ethernet Controller Properties Advanced 
 > ###### From `Ethernet Properties`, click the `Configure` button and then select the `Advanced` tab to access the advanced settings.
