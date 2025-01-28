@@ -63,9 +63,9 @@ Essere sicuri che `Auto-Tuning Level` sia impostato su `Normal`
 netsh interface tcp show global
 ```
 
-> ###### Per impostare **Auto-Tuning Level** sono disponibili 5 livelli, usa il seguente comando per impostarne uno.
-> ###### Di Default dovrebbe essere impostato su Normal.
+> ###### Per impostare **Auto-Tuning Level** sono disponibili 5 livelli, Di Default dovrebbe essere impostato su Normal.
 > ###### Disattivarlo potrebbe migliorare la latenza ma potrebbe anche ridurre/limitare la velocitá di upload e download!
+> ###### Usa il seguente comando per impostarne uno.
 
 {{< table "table-striped-columns table-responsive " >}}
 | Level | Value |
