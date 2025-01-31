@@ -13,20 +13,6 @@ La velocità e la qualità di una connessione internet sono fondamentali per qua
 Testare una connessione ADSL o Fibra è importante per capire se stai ricevendo ciò per cui stai pagando, se ci sono problemi di prestazioni o se il tuo provider sta effettivamente offrendo la velocità promessa.<br>
 In questa guida dettagliata vedremo tutti i passaggi necessari per testare correttamente una connessione ADSL o Fibra, dall’utilizzo di strumenti online a test più avanzati, per identificare eventuali problemi e risolverli.
 
-## Indice
-
-1. [Introduzione alla Connessione ADSL e Fibra](#1-introduzione-alla-connessione-adsl-e-fibra)
-2. [Strumenti Utilizzati per Testare la Connessione](#2-strumenti-utilizzati-per-testare-la-connessione)
-3. [Passaggi Preliminari](#3-passaggi-preliminari)
-4. [Test di Velocità della Connessione](#4-test-di-velocità-della-connessione)
-5. [Test di Ping e Latenza](#5-test-di-ping-e-latenza)
-6. [Test di Qualità della Connessione (Jitter e Packet Loss)](#6-test-di-qualità-della-connessione-jitter-e-packet-loss)
-7. [Verifica della Velocità a Casa e Comparazione con i Dati del Contratto](#7-verifica-della-velocità-a-casa-e-comparazione-con-i-dati-del-contratto)
-8. [Problemi Comuni nelle Connessioni ADSL e Fibra](#8-problemi-comuni-nelle-connessioni-adsl-e-fibra)
-9. [Come Risolvere i Problemi Comuni](#9-come-risolvere-i-problemi-comuni)
-10. [Verifica della Connessione con il Provider](#10-verifica-della-connessione-con-il-provider)
-11. [Conclusioni](#11-conclusioni)
-
 ---
 
 ### 1. Introduzione alla Connessione ADSL e Fibra
