@@ -9,13 +9,29 @@ draft: false
 images: []
 ---
 
-La velocità e la qualità di una connessione internet sono fondamentali per qualsiasi tipo di utilizzo: dallo streaming di contenuti, al gaming, fino al lavoro da remoto. Testare una connessione ADSL o fibra è importante per capire se stai ricevendo ciò per cui stai pagando, se ci sono problemi di prestazioni o se il tuo provider sta effettivamente offrendo la velocità promessa. In questa guida dettagliata vedremo tutti i passaggi necessari per testare correttamente una connessione ADSL o fibra, dall’utilizzo di strumenti online a test più avanzati, per identificare eventuali problemi e risolverli.
+La velocità e la qualità di una connessione internet sono fondamentali per qualsiasi tipo di utilizzo: dallo streaming di contenuti, al gaming, fino al lavoro da remoto.<br>
+Testare una connessione ADSL o Fibra è importante per capire se stai ricevendo ciò per cui stai pagando, se ci sono problemi di prestazioni o se il tuo provider sta effettivamente offrendo la velocità promessa.<br>
+In questa guida dettagliata vedremo tutti i passaggi necessari per testare correttamente una connessione ADSL o Fibra, dall’utilizzo di strumenti online a test più avanzati, per identificare eventuali problemi e risolverli.
+
+## Indice
+
+1. [Introduzione alla Connessione ADSL e Fibra](#1-introduzione-alla-connessione-adsl-e-fibra)
+2. [Strumenti Utilizzati per Testare la Connessione](#2-strumenti-utilizzati-per-testare-la-connessione)
+3. [Passaggi Preliminari](#3-passaggi-preliminari)
+4. [Test di Velocità della Connessione](#4-test-di-velocità-della-connessione)
+5. [Test di Ping e Latenza](#5-test-di-ping-e-latenza)
+6. [Test di Qualità della Connessione (Jitter e Packet Loss)](#6-test-di-qualità-della-connessione-jitter-e-packet-loss)
+7. [Verifica della Velocità a Casa e Comparazione con i Dati del Contratto](#7-verifica-della-velocità-a-casa-e-comparazione-con-i-dati-del-contratto)
+8. [Problemi Comuni nelle Connessioni ADSL e Fibra](#8-problemi-comuni-nelle-connessioni-adsl-e-fibra)
+9. [Come Risolvere i Problemi Comuni](#9-come-risolvere-i-problemi-comuni)
+10. [Verifica della Connessione con il Provider](#10-verifica-della-connessione-con-il-provider)
+11. [Conclusioni](#11-conclusioni)
 
 ---
 
 ### 1. Introduzione alla Connessione ADSL e Fibra
 
-Le connessioni ADSL e fibra ottica sono due delle tecnologie più comuni per la connessione a Internet nelle case e negli uffici. Ecco una breve panoramica delle differenze:
+Le connessioni ADSL e Fibra ottica sono due delle tecnologie più comuni per la connessione a Internet nelle case e negli uffici. Ecco una breve panoramica delle differenze:
 
 - **ADSL (Asymmetric Digital Subscriber Line)**: È una connessione via cavo che utilizza la rete telefonica tradizionale (in rame) per trasmettere i dati. Offre una velocità di download più alta rispetto al upload, ed è generalmente più lenta rispetto alla fibra.
   
@@ -27,11 +43,11 @@ Testare una connessione ADSL o fibra è essenziale per assicurarsi che il serviz
 
 Per testare la tua connessione internet, ci sono diversi strumenti che puoi utilizzare. Alcuni sono online, mentre altri richiedono software da installare. Di seguito sono elencati i principali strumenti di test:
 
-- **Speedtest.net**: Uno degli strumenti di test di velocità più utilizzati a livello globale. Permette di testare la velocità di download, upload e ping.
+- **[Speedtest.net](https://www.speedtest.net/)**: Uno degli strumenti di test di velocità più utilizzati a livello globale. Permette di testare la velocità di download, upload e ping.
   
-- **Fast.com**: Un test di velocità sviluppato da Netflix, particolarmente utile per testare le prestazioni di streaming.
+- **[Fast.com](https://fast.com/)**: Un test di velocità sviluppato da Netflix, particolarmente utile per testare le prestazioni di streaming.
 
-- **Waveform - Bufferbloat and Internet Speed Test**: Speed test utile per gaming e streaming per valutare ping, jitter e carichi sulla connessione e ottenere un grado della tua connessione.
+- **[Waveform - Bufferbloat and Internet Speed Test](https://www.waveform.com/tools/bufferbloat)**: Speed test utile per gaming e streaming per valutare ping, jitter e carichi sulla connessione e ottenere un grado della tua connessione.
 
 - **[Ne.Me.Sys](https://misurainternet.it/login/?next=/download/nemesys/)** unico strumento che abbia un qualche valore legale, software distribuito da AGCOM (l’Autorità per le Garanzie nelle Comunicazioni) che si installa sul computer e monitora la velocità della connessione nell’arco delle 24 ore.
 
