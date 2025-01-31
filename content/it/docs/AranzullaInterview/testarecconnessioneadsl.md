@@ -45,7 +45,7 @@ Per testare la tua connessione internet, ci sono diversi strumenti che puoi util
   
 - **Fast.com**: Un test di velocità sviluppato da Netflix, particolarmente utile per testare le prestazioni di streaming.
 
-- **Waveform - Bufferbloat and Internet Speed Test**: Speed test utile per il gaming, per valutare ping, jitter e carichi sulla connessione.
+- **Waveform - Bufferbloat and Internet Speed Test**: Speed test utile per gaming e streaming per valutare ping, jitter e carichi sulla connessione e ottenere un grado della tua connessione.
 
 - **Traceroute**: Uno strumento che permette di tracciare il percorso dei pacchetti attraverso la rete, identificando eventuali colli di bottiglia o problemi lungo il percorso.
 
