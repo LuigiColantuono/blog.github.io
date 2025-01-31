@@ -47,6 +47,8 @@ Per testare la tua connessione internet, ci sono diversi strumenti che puoi util
 
 - **Waveform - Bufferbloat and Internet Speed Test**: Speed test utile per gaming e streaming per valutare ping, jitter e carichi sulla connessione e ottenere un grado della tua connessione.
 
+- **[Ne.Me.Sys](https://misurainternet.it/login/?next=/download/nemesys/)** unico strumento che abbia un qualche valore legale, software distribuito da AGCOM (l’Autorità per le Garanzie nelle Comunicazioni) che si installa sul computer e monitora la velocità della connessione nell’arco delle 24 ore.
+
 - **Traceroute**: Uno strumento che permette di tracciare il percorso dei pacchetti attraverso la rete, identificando eventuali colli di bottiglia o problemi lungo il percorso.
 
 ### 3. Passaggi Preliminari
