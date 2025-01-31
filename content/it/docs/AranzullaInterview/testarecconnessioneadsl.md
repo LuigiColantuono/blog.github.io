@@ -152,7 +152,8 @@ Alcuni dei problemi comuni che possono influenzare le tue prestazioni di rete in
 Ecco alcune soluzioni per i problemi più comuni:
 
 - **Riavvia il modem/router** per risolvere piccoli problemi temporanei.
-- **Utilizza una connessione cablata** per eliminare problemi legati al Wi-Fi.
+- **Impostazioni scheda di rete** controlla le impostazioni della scheda di rete ethernet e wireless
+- **Utilizza una connessione cablata** per eliminare problemi legati al Wi-Fi oppure migliorare quella Wi-Fi implementato una **rete Mesh**
 - **Contatta il tuo provider** per verificare se ci sono problemi di rete o di manutenzione.
 
 ### 10. Verifica della Connessione con il Provider
